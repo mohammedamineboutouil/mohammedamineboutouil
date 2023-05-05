@@ -1,0 +1,45 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+target/
+*.class
+
+# VS Code files
+.vscode/
+*.code-workspace
+
+# Build files
+build/
+dist/
+bin/
+out/
+deploy/
+.gradle/
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+
+# Logs and backups
+log/
+logs/
+*.log
+*.log.*
+*.stackdump
+*~
+*#
+
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other
+*.bak
+*.cache
+*.tmp
+*.temp
