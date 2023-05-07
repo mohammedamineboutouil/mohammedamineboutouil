@@ -4,7 +4,7 @@
 
 I am a **Software Engineer** with a focus on **Java**, **DevOps**, and **Cloud** technologies. I have had the privilege
 of collaborating with **Fintech** companies, contributing to the development of solutions for **Automated
-Screening Systems**, **Payment Hubs**, and **Financial Messaging**. My experience with modern technologies and
+Screening Systems**, **Checkout Payment Services**, and **Financial Messaging**. My experience with modern technologies and
 frameworks has allowed me to create efficient, high-quality software solutions that cater to specific business
 requirements.
 
@@ -18,7 +18,8 @@ vision.*
 
 > - **Java Development:** Jakarta EE, Spring Ecosystem (MVC, Boot, Cloud, Stream, Dataflow, etc.), Microprofile (
     Quarkus, OpenLiberty)
-> - **Fintech Solutions:** Screening Systems, Financial Messaging, Payment Hubs, and Compliance
+> - **Financial Messaging:** FIN, MT, BIC, ISO20022
+> - **Payments:** CMI, Mastercard (MPGS), Stripe
 > - **Architectures & Patterns:** Microservices, Event-driven Architecture, Messaging, Serverless, Asynchronous
     Patterns, and Domain-Driven Design
 > - **Messaging Systems:** Kafka, IBM MQ, RabbitMQ
